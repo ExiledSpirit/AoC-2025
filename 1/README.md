@@ -65,6 +65,7 @@ To begin, [get your puzzle input](1/input).
 
 <details>
   <summary>answer</summary>
+
   ```
   1097
   ```
