@@ -1,0 +1,6 @@
+# README Principal
+
+This project refers to a 12 days challenge (12 puzzles) from [Advent of Code 2025](https://adventofcode.com/2025/).
+
+- [Day 1: Secret Entrance](1/README.md)
+
