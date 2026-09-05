@@ -63,9 +63,11 @@ Analyze the rotations in your attached document. _What's the actual password to 
 
 To begin, [get your puzzle input](1/input).
 
-Answer: <details>
-  <summary>reveal answer</summary>
-    1097
+<details>
+  <summary>answer</summary>
+  ```
+  1097
+  ```
 </details>
 
 You can also \[Shareon [Bluesky](https://bsky.app/intent/compose?text=%22Secret+Entrance%22+%2D+Day+1+%2D+Advent+of+Code+2025+%23AdventOfCode+https%3A%2F%2Fadventofcode%2Ecom%2F2025%2Fday%2F1) [Twitter](https://twitter.com/intent/tweet?text=%22Secret+Entrance%22+%2D+Day+1+%2D+Advent+of+Code+2025&url=https%3A%2F%2Fadventofcode%2Ecom%2F2025%2Fday%2F1&related=ericwastl&hashtags=AdventOfCode) [Mastodon](javascript:void(0);)\] this puzzle.
