@@ -4,3 +4,4 @@ This project refers to a 12 days challenge (12 puzzles) from [Advent of Code 202
 
 - [Day 1: Secret Entrance](1/README.md)
 - [Day 2: Gift Shop](2/README.md)
+- [Day 3: Lobby](3/README.md)
