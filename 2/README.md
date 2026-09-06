@@ -44,7 +44,6 @@ To begin, [get your puzzle input](2/input).
 
     Your puzzle answer was `29818212493`.
 </details>
-\*
 
 \--- Part Two ---
 -----------------
