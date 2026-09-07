@@ -35,7 +35,43 @@ To begin, [get your puzzle input](3/input).
 <details>
   <summary>answer</summary>
 
-    Your puzzle answer was ``.
+    Your puzzle answer was `17166`.
 </details>
 
-You can also \[Shareon [Bluesky](https://bsky.app/intent/compose?text=%22Lobby%22+%2D+Day+3+%2D+Advent+of+Code+2025+%23AdventOfCode+https%3A%2F%2Fadventofcode%2Ecom%2F2025%2Fday%2F3) [Twitter](https://twitter.com/intent/tweet?text=%22Lobby%22+%2D+Day+3+%2D+Advent+of+Code+2025&url=https%3A%2F%2Fadventofcode%2Ecom%2F2025%2Fday%2F3&related=ericwastl&hashtags=AdventOfCode) [Mastodon](javascript:void(0);)\] this puzzle.
+\--- Part Two ---
+-----------------
+
+The escalator doesn't move. The Elf explains that it probably needs more joltage to overcome the [static friction](https://en.wikipedia.org/wiki/Static_friction) of the system and hits the big red "joltage limit safety override" button. You lose count of the number of times she needs to confirm "yes, I'm sure" and decorate the lobby a bit while you wait.
+
+Now, you need to make the largest joltage by turning on _exactly twelve_ batteries within each bank.
+
+The joltage output for the bank is still the number formed by the digits of the batteries you've turned on; the only difference is that now there will be `_12_` digits in each bank's joltage output instead of two.
+
+Consider again the example from before:
+
+    987654321111111
+    811111111111119
+    234234234234278
+    818181911112111
+    
+
+Now, the joltages are much larger:
+
+*   In `_987654321111_111`, the largest joltage can be found by turning on everything except some `1`s at the end to produce `_987654321111_`.
+*   In the digit sequence `_81111111111_111_9_`, the largest joltage can be found by turning on everything except some `1`s, producing `_811111111119_`.
+*   In `23_4_2_34234234278_`, the largest joltage can be found by turning on everything except a `2` battery, a `3` battery, and another `2` battery near the start to produce `_434234234278_`.
+*   In `_8_1_8_1_8_1_911112111_`, the joltage `_888911112111_` is produced by turning on everything except some `1`s near the front.
+
+The total output joltage is now much larger: `987654321111` + `811111111119` + `434234234278` + `888911112111` = `_3121910778619_`.
+
+_What is the new total output joltage?_
+
+<details>
+  <summary>answer</summary>
+
+    Your puzzle answer was `169077317650774`.
+</details>
+
+Although it hasn't changed, you can still [get your puzzle input](3/input).
+
+You can also \[Shareon [Bluesky](https://bsky.app/intent/compose?text=I%27ve+completed+Part+One+of+%22Lobby%22+%2D+Day+3+%2D+Advent+of+Code+2025+%23AdventOfCode+https%3A%2F%2Fadventofcode%2Ecom%2F2025%2Fday%2F3) [Twitter](https://twitter.com/intent/tweet?text=I%27ve+completed+Part+One+of+%22Lobby%22+%2D+Day+3+%2D+Advent+of+Code+2025&url=https%3A%2F%2Fadventofcode%2Ecom%2F2025%2Fday%2F3&related=ericwastl&hashtags=AdventOfCode) [Mastodon](javascript:void(0);)\] this puzzle.
