@@ -7,3 +7,4 @@ This project refers to a 12 days challenge (12 puzzles) from [Advent of Code 202
 - [Day 3: Lobby](3/README.md)
 - [Day 4: Printing Department](4/README.md)
 - [Day 5: Cafeteria](5/README.md)
+- [Day 6: Trash Compactor](6/README.md)
