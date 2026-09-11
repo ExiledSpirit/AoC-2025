@@ -9,3 +9,4 @@ This project refers to a 12 days challenge (12 puzzles) from [Advent of Code 202
 - [Day 5: Cafeteria](5/README.md)
 - [Day 6: Trash Compactor](6/README.md)
 - [Day 7: Laboratories](7/README.md)
+- [Day 8: Playground](8/README.md)
